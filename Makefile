@@ -3,7 +3,7 @@ NAME = ft_malcolm
 CC = gcc
 FLAGS = -Wall -Wextra -Werror
 LIBFT = libft/libft.a
-INCLUDES = -I includes/ 
+INCLUDES = -I includes/  -I libft/includes/
 
 BLUE = \\033[1;34m
 WHITE = \\033[0;37m

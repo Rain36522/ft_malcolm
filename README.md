@@ -17,7 +17,3 @@ This project introduces the ARP protocol. In this project, we learn how to perfo
    ```bash
    ./ft_malcolm <source ip> <source mac> <destinstaion ip> <destination address>
    ```
-
-
-
-

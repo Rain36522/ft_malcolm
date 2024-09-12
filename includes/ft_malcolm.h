@@ -25,7 +25,7 @@
 #include <netinet/ip_icmp.h>
 #include <errno.h>
 #include <signal.h>
-#include "../libft/includes/libft.h"
+#include "libft.h"
 #include <net/if.h>
 #include <netinet/ip.h>
 #include <ifaddrs.h>
